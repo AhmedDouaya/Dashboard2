@@ -6,3 +6,4 @@ streamlit
 Flask
 shap
 seaborn
+lightGBM
