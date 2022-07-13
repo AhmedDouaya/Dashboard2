@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+requests
+streamlit
+Flask
+shap
+pickle
